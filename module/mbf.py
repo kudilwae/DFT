@@ -334,10 +334,10 @@ def menu():
 |____/|____/ \___/|____/  |_| |_|\__, |\__|_| |_|\___|_|
                                  |___/
 \rk###########################################################
-#             \rb*MULTY BRUTEFORCE FACEBOOK*\rk                 #
-# \rhBY\rp                                         P.LINGGABUMI \rk#
-# \rhWhatsap\rp                                    085222144996 \rk#
-#     \rm   Jangan Gunakan Alat Ini Untuk Tujuan Ilegal      \rk#
+#             \rb*MULTY BRUTEFORCE FACEBOOK*\rk              #
+# \rhBY\rp                                   P.LINGGABUMI \rk#
+# \rhWhatsap\rp                              085222144996 \rk#
+#  \rm   Jangan Gunakan Alat Ini Untuk Tujuan Ilegal      \rk#
 ###########################################################''')
 	tampil('''\rk%s\n\rc1 \rhAmbil id dari group\n\rc2 \rhAmbil id dari daftar teman\n\rc3 \rmKELUAR\n\rk%s'''%('#'*20,'#'*20))
 	i = inputM('[?]PILIH',[1,2,3])
